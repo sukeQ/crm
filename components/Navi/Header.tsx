@@ -1,5 +1,5 @@
 import Link from "next/link";
-import AuthButton from "./AuthButton";
+import AuthButton from "../AuthButton";
 import Searchbar from "@/app/crm/feature/Searchbar";
 
 export default function Header() {

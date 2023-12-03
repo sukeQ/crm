@@ -1,7 +1,7 @@
 import { GeistSans } from "geist/font/sans";
 import "./globals.css";
 import PrelineScript from "@/components/PrelineScript";
-import Header from "@/components/Header";
+import Header from "@/components/Navi/Header";
 import Navi from "@/components/Nvi";
 
 const defaultUrl = process.env.VERCEL_URL
@@ -19,7 +19,6 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    // <html lang="jp" className={GeistSans.className}>
     <html lang="jp">
       <body className="bg-background text-foreground">
         <main className="items-center">{children}</main>
