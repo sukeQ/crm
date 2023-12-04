@@ -25,7 +25,7 @@ const Navi = async () => {
             className="inline-flex items-center gap-x-2 hover:text-gray-500 dark:text-gray-400 dark:hover:text-gray-500 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
             href="/approach"
           >
-            営業行動数値
+            アプローチチェック表
           </Link>
         </div>
         <div className="snap-center shrink-0 pe-5 sm:pe-8 sm:last:pe-0">
@@ -33,7 +33,7 @@ const Navi = async () => {
             className="inline-flex items-center gap-x-2 hover:text-gray-500 dark:text-gray-400 dark:hover:text-gray-500 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
             href="#"
           >
-            社内報
+            FTBPortal
           </Link>
         </div>
         <div className="snap-center shrink-0 pe-5 sm:pe-8 sm:last:pe-0">
@@ -41,7 +41,7 @@ const Navi = async () => {
             className="inline-flex items-center gap-x-2 hover:text-gray-500 dark:text-gray-400 dark:hover:text-gray-500 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
             href="#"
           >
-            営業組織図
+            FTBCom
           </Link>
         </div>
         <div className="snap-center shrink-0 pe-5 sm:pe-8 sm:last:pe-0">
@@ -57,7 +57,7 @@ const Navi = async () => {
             className="inline-flex items-center gap-x-2 hover:text-gray-500 dark:text-gray-400 dark:hover:text-gray-500 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
             href="#"
           >
-            資料貸出
+            FTBLibrary
           </Link>
         </div>
         <div className="snap-center shrink-0 pe-5 sm:pe-8 sm:last:pe-0">
