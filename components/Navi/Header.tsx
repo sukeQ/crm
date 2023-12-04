@@ -15,7 +15,7 @@ export default function Header() {
             href="/crm"
             aria-label="Brand"
           >
-            Maldy
+            SampleCRM
           </Link>
         </div>
 
